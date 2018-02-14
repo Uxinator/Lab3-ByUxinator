@@ -32,7 +32,7 @@ public class Main {
                 System.out.println();
 
                 if (percentageGas < 0 || percentageGas > 100) {
-                    System.out.print("ERROR: PERCENTAGE MUST BE A DECIMAL NUMBER IN THE RANGE OF 0-100(INCLUSIVE)!!!");
+                    System.out.print("ERROR: PERCENTAGE MUST BE A DECIMAL NUMBER IN THE RANGE OF 0-100(INCLUSIVE)!!!"); //For Lab 5
                 }
 
                 else {
